@@ -117,4 +117,4 @@ To see the demo of the EatFit website in action, click the link below:
    http://localhost:5173
    ```
 ## 🤝 Contribution
-This project is the **Final project for CIS 515: Software Engineering** at the **University of Michigan-Dearborn** and is a **team collaboration**.
+This project is the **Final project for CIS 553: Software Engineering** at the **University of Michigan-Dearborn** and is a **team collaboration**.
