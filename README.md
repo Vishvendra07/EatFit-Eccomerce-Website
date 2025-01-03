@@ -41,14 +41,6 @@ The project is divided into **frontend** and **backend** directories:
 
 ---
 
-## 🎥 Demo Video
-
-To see the demo of the EatFit website in action, click the link below:
-
-[Watch the Demo Video](https://www.youtube.com/watch?v=8m1z62FcLus?autoplay=1)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend:
