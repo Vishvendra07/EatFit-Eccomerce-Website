@@ -24,6 +24,11 @@ EatFit is an e-commerce website designed to provide a seamless online shopping e
 - Secure backend powered by Node.js and MongoDB.
 
 ---
+## 📸 Demo
+
+🎥 [Watch Presentation Video] (https://www.dropbox.com/scl/fi/ldtdrde724gdpmffry5ns/EatFit.webm?rlkey=btccnsbjc513as1tez4e0ghuu&st=kzro8i7d&dl=0)
+
+---
 
 ## 📂 Project Structure
 
